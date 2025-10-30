@@ -1,5 +1,6 @@
 name: 🐜 Bug Report
-description: 🐜 Bug Report
+description: Report a bug that you've encountered.
+title: 🐜 -
 labels:
   - bug
 type: bug
